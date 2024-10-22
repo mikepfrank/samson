@@ -1,4 +1,4 @@
-# samson
+# Samson
 
 This repository contains a simple, self-contained, one-file stochastic chatbot (console application) using an algorithm that's loosely based on the very first such chatbot that I coded, which was originally written in Microsoft Color BASIC on my Tandy Radio Shack TRS-80 Color Computer (which I had nicknamed "Samson") way back around 1982 or '83.
 
